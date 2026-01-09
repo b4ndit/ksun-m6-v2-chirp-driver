@@ -7,8 +7,11 @@ CHIRP driver for the KSUN M6 V2 (2024+ hardware revision) UHF handheld transceiv
 The KSUN M6 V2 is a compact UHF handheld radio operating in the 400-480 MHz range with 200 memory channels. This driver provides full support for programming the radio using CHIRP software.
 
 **Supported Model:** KSUN M6 V2 (2024+ hardware revision)
+
 **Frequency Range:** 400-480 MHz
+
 **Channels:** 200
+
 **Power Output:** High (2.0W) / Low (0.5W)
 
 ## Features
